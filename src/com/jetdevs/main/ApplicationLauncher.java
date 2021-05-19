@@ -22,7 +22,7 @@ public class ApplicationLauncher extends Application {
 			new LoginPage(primaryStage);
 			primaryStage.show();
 		} catch (Exception e) {
-			e.printStackTrace();
+			 e.printStackTrace();
 		}
 	}
 }
